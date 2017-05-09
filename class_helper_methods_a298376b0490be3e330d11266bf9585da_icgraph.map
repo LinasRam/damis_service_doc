@@ -1,0 +1,6 @@
+<map id="HelperMethods::getStd" name="HelperMethods::getStd">
+<area shape="rect" id="node2" href="$class_preprocess.html#a1725e1e54ac02a1fc578c7ec0a7db17c" title="Function that performs data filtering. " alt="" coords="216,5,363,32"/>
+<area shape="rect" id="node4" href="$class_preprocess.html#a815bdc120b36b399edb215ae547b1680" title="Normalize data either by mean and std or by mapping to interval. " alt="" coords="213,56,365,83"/>
+<area shape="rect" id="node5" href="$class_statistics.html#ad4eb51a0413096c75ab68baf83a787f2" title="Calulates statistics of the data section. " alt="" coords="208,107,371,133"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a5bc4197794cab7b59cd1b4af01879e59" title="main" alt="" coords="419,56,469,83"/>
+</map>

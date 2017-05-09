@@ -1,0 +1,7 @@
+<map id="HelperMethods::getMean" name="HelperMethods::getMean">
+<area shape="rect" id="node2" href="$class_helper_methods.html#a298376b0490be3e330d11266bf9585da" title="Function returns deviation of vector. " alt="" coords="220,56,375,83"/>
+<area shape="rect" id="node5" href="$class_preprocess.html#a815bdc120b36b399edb215ae547b1680" title="Normalize data either by mean and std or by mapping to interval. " alt="" coords="428,5,580,32"/>
+<area shape="rect" id="node6" href="$class_statistics.html#ad4eb51a0413096c75ab68baf83a787f2" title="Calulates statistics of the data section. " alt="" coords="423,107,585,133"/>
+<area shape="rect" id="node3" href="$class_preprocess.html#a1725e1e54ac02a1fc578c7ec0a7db17c" title="Function that performs data filtering. " alt="" coords="431,56,577,83"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a5bc4197794cab7b59cd1b4af01879e59" title="main" alt="" coords="633,56,684,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ClassificationGrouping" name="ClassificationGrouping">
+<area shape="rect" id="node2" href="$class_call_calculus.html" title="Class implements call of the algorithms on the cluster. " alt="" coords="33,380,128,407"/>
+<area shape="rect" id="node3" href="$class_serve_request.html" title="Class that prepares data for any calculations regarding requested operations. " alt="" coords="29,304,132,331"/>
+<area shape="rect" id="node4" href="$class_damis_file.html" title="Class that describes each file (local, http paths and file name of the input/output file defined by t..." alt="" coords="46,5,126,32"/>
+<area shape="rect" id="node6" href="$class_arff_file.html" title="ARFF file parsing class. " alt="" coords="104,81,167,108"/>
+<area shape="rect" id="node5" href="$class_init_damis_service.html" title="Class that represents Damis service working file. " alt="" coords="97,185,216,212"/>
+</map>

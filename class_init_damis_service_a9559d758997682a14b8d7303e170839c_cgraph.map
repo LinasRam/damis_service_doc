@@ -1,0 +1,12 @@
+<map id="InitDamisService::getDownloadFileURI" name="InitDamisService::getDownloadFileURI">
+<area shape="rect" id="node2" href="$class_damis_file.html#a84db169d7bcf1b1e275e06fdc227ac99" title="Method returns file name with the local path. " alt="" coords="460,5,615,32"/>
+<area shape="rect" id="node3" href="$class_error_response.html#aabed2e55bcc71c51ec53a2a3d5260611" title="Sets fault details. " alt="" coords="439,56,635,83"/>
+<area shape="rect" id="node4" href="$class_arff_file.html#ae0b269b4e1ce5a078477b7bc9e633f7f" title="Function reads and validates arff file. If file is valid reurns true. " alt="" coords="253,187,388,213"/>
+<area shape="rect" id="node5" href="$class_helper_methods.html#a3433f05cc3adca4e1c4ada527997698a" title="Function splits passed string accordint to passed delimeter. " alt="" coords="467,427,608,453"/>
+<area shape="rect" id="node6" href="$class_arff_file.html#a711651230f08e8c72acc7b5005b2602a" title="Function indicates if the class section is found in arff file. " alt="" coords="463,107,612,133"/>
+<area shape="rect" id="node7" href="$class_arff_file.html#a24f3333b3093aa33254878c1efedc769" title="Function returns number of attributes (without class). " alt="" coords="436,157,639,184"/>
+<area shape="rect" id="node8" href="$class_arff_file.html#a060eb8b1055b1c4233317dcd7118a0b3" title="Function returns class attribute index. " alt="" coords="452,209,623,250"/>
+<area shape="rect" id="node9" href="$class_arff_file.html#a038b4d60394813fe580dc24f2a867d2c" title="Function returns vector of object&#39;s class values in int (from attribute section). ..." alt="" coords="445,275,629,301"/>
+<area shape="rect" id="node10" href="$class_error_response.html#a8f155b098d7293c019df14b6c6a62f72" title="Indicates if there were faults. " alt="" coords="442,325,633,352"/>
+<area shape="rect" id="node11" href="$class_helper_methods.html#ad66f356f55f694691576b2af26936cee" title="Deletes file. " alt="" coords="451,376,624,403"/>
+</map>

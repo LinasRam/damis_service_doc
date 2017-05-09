@@ -1,0 +1,27 @@
+<map id="HelperMethods::deleteFile" name="HelperMethods::deleteFile">
+<area shape="rect" id="node2" href="$class_arff_file.html#ae0b269b4e1ce5a078477b7bc9e633f7f" title="Function reads and validates arff file. If file is valid reurns true. " alt="" coords="259,17,393,43"/>
+<area shape="rect" id="node5" href="$class_call_calculus.html#a6ffbfc8c0cde4dba5afeef8af503c563" title="Virtual method that calls run algorithm on the cluster. " alt="" coords="513,474,633,501"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a5bc4197794cab7b59cd1b4af01879e59" title="main" alt="" coords="949,638,1000,665"/>
+<area shape="rect" id="node17" href="$class_call_calculus.html#abe2b3751b8677cec3cbffb0cf5bee068" title="Virtual method that calls run algorithm on the cluster. " alt="" coords="510,834,637,861"/>
+<area shape="rect" id="node19" href="$class_serve_request.html#ad62ef291a69d439133aa34ed0ca17d28" title="Method that writes the data and attribute section to output file. " alt="" coords="227,943,425,970"/>
+<area shape="rect" id="node26" href="$class_validate_params.html#a2504a3be797ec2ada776f67336205625" title="Method that returns the validation result and deletes input file if parameters are not valid..." alt="" coords="245,71,407,98"/>
+<area shape="rect" id="node3" href="$class_init_damis_service.html#a9559d758997682a14b8d7303e170839c" title="Function returns file download URI. " alt="" coords="473,5,673,47"/>
+<area shape="rect" id="node4" href="$class_init_damis_service.html#a4c80d7fac813b800701eb82bbb6374a9" title="Constructor. " alt="" coords="721,5,901,47"/>
+<area shape="rect" id="node6" href="$class_classification_grouping.html#a1c99fc12f3d897da4df1d3c16ed39656" title="Method runs SOM. " alt="" coords="736,173,887,215"/>
+<area shape="rect" id="node8" href="$class_classification_grouping.html#a7aa849a7308c2098990ef232fb55dcc8" title="Runs k&#45;Means clustering. " alt="" coords="736,239,887,280"/>
+<area shape="rect" id="node9" href="$class_classification_grouping.html#aa5499f52d594003d894325a073d74bcd" title="Method runs MLP. " alt="" coords="736,304,887,345"/>
+<area shape="rect" id="node10" href="$class_classification_grouping.html#a1280f2595f9b59d12ee217bbec7d6b3e" title="Runs decision forest. " alt="" coords="736,369,887,411"/>
+<area shape="rect" id="node11" href="$class_dimension_reduction.html#a2cde5aa9f10fdb70488cdf685b973a20" title="Runs PCA. " alt="" coords="741,435,882,476"/>
+<area shape="rect" id="node12" href="$class_dimension_reduction.html#a58bbf9d2599a10f720c1eee9719277e5" title="Runs DMA. " alt="" coords="741,500,882,541"/>
+<area shape="rect" id="node13" href="$class_dimension_reduction.html#a28385953e75977aac4aa5ebe118acf5f" title="Runs RELATIVEMDS. " alt="" coords="741,565,882,607"/>
+<area shape="rect" id="node14" href="$class_dimension_reduction.html#adfc0f8b1f653d0625dee3ba9f7ec8f58" title="Runs SMACOFMDS. " alt="" coords="741,631,882,672"/>
+<area shape="rect" id="node15" href="$class_dimension_reduction.html#ad58664846b00b5a583bbd03a4f8e0045" title="RunsSAMMAN. " alt="" coords="741,696,882,737"/>
+<area shape="rect" id="node16" href="$class_dimension_reduction.html#a8b7eb71f4f4a2a9c1941c5376fc5fc6e" title="Runs SOMMDS. " alt="" coords="741,761,882,803"/>
+<area shape="rect" id="node18" href="$class_dimension_reduction.html#a139fe97eaaa6092a61314ae959f4722c" title="RunsSAMMAN. " alt="" coords="738,827,885,868"/>
+<area shape="rect" id="node20" href="$class_preprocess.html#a1725e1e54ac02a1fc578c7ec0a7db17c" title="Function that performs data filtering. " alt="" coords="500,1146,647,1173"/>
+<area shape="rect" id="node21" href="$class_preprocess.html#a815bdc120b36b399edb215ae547b1680" title="Normalize data either by mean and std or by mapping to interval. " alt="" coords="497,893,649,919"/>
+<area shape="rect" id="node22" href="$class_preprocess.html#a4539e616a2ee8f98b302e1fe589874c5" title="Function that performs data splitting. " alt="" coords="500,943,647,970"/>
+<area shape="rect" id="node23" href="$class_preprocess.html#ae736ab5d72acc76a52af16c2b21f9907" title="Function that performs data transpose. " alt="" coords="483,994,663,1021"/>
+<area shape="rect" id="node24" href="$class_preprocess.html#a66ccb26ececd2a8198a1032a89036276" title="Function that performs data cleaning. " alt="" coords="496,1045,651,1071"/>
+<area shape="rect" id="node25" href="$class_statistics.html#ad4eb51a0413096c75ab68baf83a787f2" title="Calulates statistics of the data section. " alt="" coords="492,1095,655,1122"/>
+</map>

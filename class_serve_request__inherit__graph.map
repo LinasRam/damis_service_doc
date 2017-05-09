@@ -1,0 +1,7 @@
+<map id="ServeRequest" name="ServeRequest">
+<area shape="rect" id="node2" href="$class_call_calculus.html" title="Class implements call of the algorithms on the cluster. " alt="" coords="119,80,213,107"/>
+<area shape="rect" id="node5" href="$class_preprocess.html" title="Implements all components described in Preprocessing gropup. " alt="" coords="238,80,326,107"/>
+<area shape="rect" id="node6" href="$class_statistics.html" title="Class that implements statistical calculations. " alt="" coords="350,80,427,107"/>
+<area shape="rect" id="node3" href="$class_classification_grouping.html" title="Class that implements classification and grouping cluster algorithms. " alt="" coords="5,155,156,181"/>
+<area shape="rect" id="node4" href="$class_dimension_reduction.html" title="Class that implements constructing parameter set for dimmension reduction cluster algoritms..." alt="" coords="181,155,322,181"/>
+</map>

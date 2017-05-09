@@ -1,0 +1,5 @@
+<map id="ServeRequest" name="ServeRequest">
+<area shape="rect" id="node2" href="$class_damis_file.html" title="Class that describes each file (local, http paths and file name of the input/output file defined by t..." alt="" coords="22,5,102,32"/>
+<area shape="rect" id="node4" href="$class_arff_file.html" title="ARFF file parsing class. " alt="" coords="80,81,143,108"/>
+<area shape="rect" id="node3" href="$class_init_damis_service.html" title="Class that represents Damis service working file. " alt="" coords="73,185,192,212"/>
+</map>

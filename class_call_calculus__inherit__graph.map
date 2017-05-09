@@ -1,0 +1,5 @@
+<map id="CallCalculus" name="CallCalculus">
+<area shape="rect" id="node3" href="$class_classification_grouping.html" title="Class that implements classification and grouping cluster algorithms. " alt="" coords="5,155,156,181"/>
+<area shape="rect" id="node4" href="$class_dimension_reduction.html" title="Class that implements constructing parameter set for dimmension reduction cluster algoritms..." alt="" coords="181,155,322,181"/>
+<area shape="rect" id="node2" href="$class_serve_request.html" title="Class that prepares data for any calculations regarding requested operations. " alt="" coords="115,5,217,32"/>
+</map>

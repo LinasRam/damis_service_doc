@@ -1,0 +1,8 @@
+<map id="HelperMethods::split" name="HelperMethods::split">
+<area shape="rect" id="node2" href="$class_arff_file.html#ae0b269b4e1ce5a078477b7bc9e633f7f" title="Function reads and validates arff file. If file is valid reurns true. " alt="" coords="219,13,354,39"/>
+<area shape="rect" id="node5" href="$class_helper_methods.html#accc34e88d09d8367a77b2e6daff77a15" title="Function reads arff file and returns indicated attribute value (satistics file form the calculus) ..." alt="" coords="195,64,379,105"/>
+<area shape="rect" id="node7" href="$class_helper_methods.html#aaa5b823f9fe83e1b2c2bc3d254500255" title="Parses CGI variables. " alt="" coords="199,130,374,157"/>
+<area shape="rect" id="node3" href="$class_init_damis_service.html#a9559d758997682a14b8d7303e170839c" title="Function returns file download URI. " alt="" coords="427,5,627,47"/>
+<area shape="rect" id="node4" href="$class_init_damis_service.html#a4c80d7fac813b800701eb82bbb6374a9" title="Constructor. " alt="" coords="675,5,855,47"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a5bc4197794cab7b59cd1b4af01879e59" title="main" alt="" coords="501,71,552,98"/>
+</map>

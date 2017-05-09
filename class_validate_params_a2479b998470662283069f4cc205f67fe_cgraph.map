@@ -1,0 +1,4 @@
+<map id="ValidateParams::filterData" name="ValidateParams::filterData">
+<area shape="rect" id="node2" href="$class_arff_file.html#a711651230f08e8c72acc7b5005b2602a" title="Function indicates if the class section is found in arff file. " alt="" coords="253,5,403,32"/>
+<area shape="rect" id="node3" href="$class_arff_file.html#a24f3333b3093aa33254878c1efedc769" title="Function returns number of attributes (without class). " alt="" coords="227,56,429,83"/>
+</map>

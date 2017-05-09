@@ -1,0 +1,12 @@
+<map id="Statistics::statPrimitives" name="Statistics::statPrimitives">
+<area shape="rect" id="node2" href="$class_arff_file.html#a24f3333b3093aa33254878c1efedc769" title="Function returns number of attributes (without class). " alt="" coords="216,5,419,32"/>
+<area shape="rect" id="node3" href="$class_arff_file.html#aa261176cd208e1e02855e5526c885cb3" title="Function returns number of rows/objects (without class). " alt="" coords="222,56,413,83"/>
+<area shape="rect" id="node4" href="$class_arff_file.html#a8e2fca909fc2dd68fc366d393b4e954c" title="Function retruns i,j th data value from the arff file data section. " alt="" coords="233,107,401,133"/>
+<area shape="rect" id="node5" href="$class_helper_methods.html#a1ba65698ef626cbda0f1bbd5eeb3de83" title="Function returns mean vector value. " alt="" coords="470,183,637,209"/>
+<area shape="rect" id="node6" href="$class_helper_methods.html#a298376b0490be3e330d11266bf9585da" title="Function returns deviation of vector. " alt="" coords="240,208,395,235"/>
+<area shape="rect" id="node7" href="$class_serve_request.html#ad62ef291a69d439133aa34ed0ca17d28" title="Method that writes the data and attribute section to output file. " alt="" coords="218,259,417,285"/>
+<area shape="rect" id="node9" href="$class_damis_file.html#a84db169d7bcf1b1e275e06fdc227ac99" title="Method returns file name with the local path. " alt="" coords="240,309,395,336"/>
+<area shape="rect" id="node10" href="$class_serve_request.html#a49faa3f0d62ea7432bea7373f3bef7e2" title="ethod that prepares and returns vector of vector of string of data atrributes " alt="" coords="227,361,407,402"/>
+<area shape="rect" id="node11" href="$class_serve_request.html#a9feb56c3ebdc69e62e22efa8ddafe53b" title="Method that prepares and returns vector of string that describes arff attribute section. " alt="" coords="216,426,419,467"/>
+<area shape="rect" id="node8" href="$class_helper_methods.html#ad66f356f55f694691576b2af26936cee" title="Deletes file. " alt="" coords="467,259,640,285"/>
+</map>

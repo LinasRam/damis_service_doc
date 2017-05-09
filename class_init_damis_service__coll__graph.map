@@ -1,0 +1,4 @@
+<map id="InitDamisService" name="InitDamisService">
+<area shape="rect" id="node2" href="$class_arff_file.html" title="ARFF file parsing class. " alt="" coords="33,80,96,107"/>
+<area shape="rect" id="node3" href="$class_damis_file.html" title="Class that describes each file (local, http paths and file name of the input/output file defined by t..." alt="" coords="25,5,105,32"/>
+</map>

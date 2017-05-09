@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$class_service_settings.html#a6836172e0f521c46b3232edce920131b" title="Initilaizes runtime environment variables. " alt="" coords="124,37,291,63"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#aa1f9b5913842f4efb8268f55741b9088" title="sendError" alt="" coords="168,813,247,839"/>
+<area shape="rect" id="node8" href="$class_error_response.html#a8f155b098d7293c019df14b6c6a62f72" title="Indicates if there were faults. " alt="" coords="607,269,797,295"/>
+<area shape="rect" id="node9" href="$class_validate_params.html#ae16e2a6d4152227a85a88e5e3058ea77" title="Validate samann parameters. " alt="" coords="123,863,291,890"/>
+<area shape="rect" id="node10" href="$class_validate_params.html#a2504a3be797ec2ada776f67336205625" title="Method that returns the validation result and deletes input file if parameters are not valid..." alt="" coords="377,407,538,434"/>
+<area shape="rect" id="node11" href="$class_helper_methods.html#ad66f356f55f694691576b2af26936cee" title="Deletes file. " alt="" coords="615,357,789,383"/>
+<area shape="rect" id="node12" href="$class_dimension_reduction.html#a139fe97eaaa6092a61314ae959f4722c" title="RunsSAMMAN. " alt="" coords="134,291,281,332"/>
+<area shape="rect" id="node14" href="$class_damis_file.html#a84db169d7bcf1b1e275e06fdc227ac99" title="Method returns file name with the local path. " alt="" coords="625,585,779,611"/>
+<area shape="rect" id="node15" href="$class_damis_file.html#a1a5f25d7018b1dec5500c750a95c0a42" title="Method returns file name with the http path. " alt="" coords="129,914,286,941"/>
+<area shape="rect" id="node16" href="$class_helper_methods.html#a089f99d1ef7d717859fbd3e5be2414c3" title="Deletes old files from the data directory. " alt="" coords="121,965,293,1007"/>
+<area shape="rect" id="node17" href="$main_8cpp.html#a63d6077d1f8717de8432c832ce1edd7d" title="streamWSDLFile" alt="" coords="147,1031,268,1058"/>
+<area shape="rect" id="node18" href="$class_validate_params.html#a45d9157680d339575483a1b2fd164783" title="Dimmension reduction components. " alt="" coords="136,1082,279,1109"/>
+<area shape="rect" id="node19" href="$class_dimension_reduction.html#a2cde5aa9f10fdb70488cdf685b973a20" title="Runs PCA. " alt="" coords="137,1133,278,1175"/>
+<area shape="rect" id="node20" href="$class_helper_methods.html#accc34e88d09d8367a77b2e6daff77a15" title="Function reads arff file and returns indicated attribute value (satistics file form the calculus) ..." alt="" coords="115,1199,299,1240"/>
+<area shape="rect" id="node21" href="$class_validate_params.html#a282a0f07405566c51791afb8e77c5fcd" title="Validate smacofMds parameters. " alt="" coords="113,1265,302,1291"/>
+<area shape="rect" id="node22" href="$class_dimension_reduction.html#adfc0f8b1f653d0625dee3ba9f7ec8f58" title="Runs SMACOFMDS. " alt="" coords="137,1316,278,1357"/>
+<area shape="rect" id="node23" href="$class_validate_params.html#a67bbb982639d1a291020d0f2adb4b67e" title="Validate dma parameters. " alt="" coords="134,1382,281,1409"/>
+<area shape="rect" id="node24" href="$class_dimension_reduction.html#a58bbf9d2599a10f720c1eee9719277e5" title="Runs DMA. " alt="" coords="137,1433,278,1475"/>
+<area shape="rect" id="node25" href="$class_validate_params.html#ae0179e4338272d19a3f66774be91d80a" title="Validate relMds parameters. " alt="" coords="127,1499,288,1526"/>
+<area shape="rect" id="node26" href="$class_dimension_reduction.html#a28385953e75977aac4aa5ebe118acf5f" title="Runs RELATIVEMDS. " alt="" coords="137,1551,278,1592"/>
+<area shape="rect" id="node27" href="$class_validate_params.html#a82a1c058572ba18730bae8c9ca7dabb8" title="Validate samann parameters. " alt="" coords="123,1617,291,1643"/>
+<area shape="rect" id="node28" href="$class_dimension_reduction.html#ad58664846b00b5a583bbd03a4f8e0045" title="RunsSAMMAN. " alt="" coords="137,1668,278,1709"/>
+<area shape="rect" id="node29" href="$class_validate_params.html#ae2115e11bae52482fd02f20588d29370" title="Classification, grouping components. " alt="" coords="134,1734,281,1761"/>
+<area shape="rect" id="node30" href="$class_classification_grouping.html#a1c99fc12f3d897da4df1d3c16ed39656" title="Method runs SOM. " alt="" coords="132,1785,283,1827"/>
+<area shape="rect" id="node31" href="$class_validate_params.html#a7c7f7733aaa801a4e8eb6a4c261ecb78" title="Validate somMds parameters. " alt="" coords="121,1851,293,1878"/>
+<area shape="rect" id="node32" href="$class_dimension_reduction.html#a8b7eb71f4f4a2a9c1941c5376fc5fc6e" title="Runs SOMMDS. " alt="" coords="137,1903,278,1944"/>
+<area shape="rect" id="node33" href="$class_validate_params.html#a8a6deffd105f5cca744626988592bee7" title="Validate mlp parameters. " alt="" coords="386,189,529,215"/>
+<area shape="rect" id="node34" href="$class_classification_grouping.html#aa5499f52d594003d894325a073d74bcd" title="Method runs MLP. " alt="" coords="132,1968,283,2009"/>
+<area shape="rect" id="node35" href="$class_validate_params.html#a2d53c9783f4cd527dc1dd37bd5bfc9bf" title="Validate decision forest. " alt="" coords="367,87,547,114"/>
+<area shape="rect" id="node36" href="$class_classification_grouping.html#a1280f2595f9b59d12ee217bbec7d6b3e" title="Runs decision forest. " alt="" coords="132,2033,283,2075"/>
+<area shape="rect" id="node37" href="$class_validate_params.html#a26cf9f1a75d7fdf7cfe5bdac75e4bfbb" title="Validate kMeans parameters. " alt="" coords="123,2099,291,2126"/>
+<area shape="rect" id="node38" href="$class_classification_grouping.html#a7aa849a7308c2098990ef232fb55dcc8" title="Runs k&#45;Means clustering. " alt="" coords="132,2151,283,2192"/>
+<area shape="rect" id="node39" href="$class_validate_params.html#aaff6224215f54047e8c5313950851587" title="Statistical primitives components. " alt="" coords="107,2217,307,2243"/>
+<area shape="rect" id="node40" href="$class_statistics.html#ad4eb51a0413096c75ab68baf83a787f2" title="Calulates statistics of the data section. " alt="" coords="376,762,539,789"/>
+<area shape="rect" id="node41" href="$class_validate_params.html#a1ef5dba8357ea7a50f1a4f1a2c4bd02c" title="Validate data cleaning parameters. " alt="" coords="117,2267,297,2294"/>
+<area shape="rect" id="node42" href="$class_preprocess.html#a66ccb26ececd2a8198a1032a89036276" title="Function that performs data cleaning. " alt="" coords="380,458,535,485"/>
+<area shape="rect" id="node43" href="$class_validate_params.html#a2479b998470662283069f4cc205f67fe" title="Validate data filtering parameters. " alt="" coords="121,2318,294,2345"/>
+<area shape="rect" id="node44" href="$class_preprocess.html#a1725e1e54ac02a1fc578c7ec0a7db17c" title="Function that performs data filtering. " alt="" coords="384,509,531,535"/>
+<area shape="rect" id="node45" href="$class_validate_params.html#ac0dacf50871efe006832d1e6dfea4649" title="Validate data splitting parameters. " alt="" coords="121,2369,294,2395"/>
+<area shape="rect" id="node46" href="$class_preprocess.html#a4539e616a2ee8f98b302e1fe589874c5" title="Function that performs data splitting. " alt="" coords="384,559,531,586"/>
+<area shape="rect" id="node47" href="$class_validate_params.html#a242f9f489a17ac6160c16fbf0e0070f3" title="Validate data transpose parameters. " alt="" coords="104,2419,311,2446"/>
+<area shape="rect" id="node48" href="$class_preprocess.html#ae736ab5d72acc76a52af16c2b21f9907" title="Function that performs data transpose. " alt="" coords="367,610,547,637"/>
+<area shape="rect" id="node49" href="$class_validate_params.html#a27025a98a9ce694d494b826ff80c6215" title="Preprocessing components. " alt="" coords="368,138,547,165"/>
+<area shape="rect" id="node50" href="$class_preprocess.html#a815bdc120b36b399edb215ae547b1680" title="Normalize data either by mean and std or by mapping to interval. " alt="" coords="381,661,533,687"/>
+<area shape="rect" id="node3" href="$class_helper_methods.html#aa3f97c150e48c28bf162aa1c7a220147" title="Function coverts string to int data type. " alt="" coords="377,37,537,63"/>
+<area shape="rect" id="node4" href="$class_error_response.html#aabed2e55bcc71c51ec53a2a3d5260611" title="Sets fault details. " alt="" coords="604,138,800,165"/>
+<area shape="rect" id="node6" href="$class_error_response.html#a9c03d049a8f8c9e2a0c9d1d6389878e1" title="Returns fault string. " alt="" coords="359,813,556,839"/>
+<area shape="rect" id="node7" href="$class_error_response.html#a4525362591646b6752c0eb3806734cd4" title="Returns fault details. " alt="" coords="359,863,555,890"/>
+<area shape="rect" id="node13" href="$class_call_calculus.html#abe2b3751b8677cec3cbffb0cf5bee068" title="Virtual method that calls run algorithm on the cluster. " alt="" coords="394,298,521,325"/>
+</map>

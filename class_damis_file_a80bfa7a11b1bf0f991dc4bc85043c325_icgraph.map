@@ -1,0 +1,17 @@
+<map id="DamisFile::getFileName" name="DamisFile::getFileName">
+<area shape="rect" id="node2" href="$class_call_calculus.html#a6ffbfc8c0cde4dba5afeef8af503c563" title="Virtual method that calls run algorithm on the cluster. " alt="" coords="245,339,365,366"/>
+<area shape="rect" id="node14" href="$class_call_calculus.html#abe2b3751b8677cec3cbffb0cf5bee068" title="Virtual method that calls run algorithm on the cluster. " alt="" coords="241,527,368,554"/>
+<area shape="rect" id="node16" href="$class_init_damis_service.html#a4c80d7fac813b800701eb82bbb6374a9" title="Constructor. " alt="" coords="215,579,395,620"/>
+<area shape="rect" id="node3" href="$class_classification_grouping.html#a1c99fc12f3d897da4df1d3c16ed39656" title="Method runs SOM. " alt="" coords="443,5,593,47"/>
+<area shape="rect" id="node5" href="$class_classification_grouping.html#a7aa849a7308c2098990ef232fb55dcc8" title="Runs k&#45;Means clustering. " alt="" coords="443,71,593,112"/>
+<area shape="rect" id="node6" href="$class_classification_grouping.html#aa5499f52d594003d894325a073d74bcd" title="Method runs MLP. " alt="" coords="443,136,593,177"/>
+<area shape="rect" id="node7" href="$class_classification_grouping.html#a1280f2595f9b59d12ee217bbec7d6b3e" title="Runs decision forest. " alt="" coords="443,201,593,243"/>
+<area shape="rect" id="node8" href="$class_dimension_reduction.html#a2cde5aa9f10fdb70488cdf685b973a20" title="Runs PCA. " alt="" coords="447,267,589,308"/>
+<area shape="rect" id="node9" href="$class_dimension_reduction.html#a58bbf9d2599a10f720c1eee9719277e5" title="Runs DMA. " alt="" coords="447,332,589,373"/>
+<area shape="rect" id="node10" href="$class_dimension_reduction.html#a28385953e75977aac4aa5ebe118acf5f" title="Runs RELATIVEMDS. " alt="" coords="447,397,589,439"/>
+<area shape="rect" id="node11" href="$class_dimension_reduction.html#adfc0f8b1f653d0625dee3ba9f7ec8f58" title="Runs SMACOFMDS. " alt="" coords="447,463,589,504"/>
+<area shape="rect" id="node12" href="$class_dimension_reduction.html#ad58664846b00b5a583bbd03a4f8e0045" title="RunsSAMMAN. " alt="" coords="447,528,589,569"/>
+<area shape="rect" id="node13" href="$class_dimension_reduction.html#a8b7eb71f4f4a2a9c1941c5376fc5fc6e" title="Runs SOMMDS. " alt="" coords="447,593,589,635"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a5bc4197794cab7b59cd1b4af01879e59" title="main" alt="" coords="641,339,692,366"/>
+<area shape="rect" id="node15" href="$class_dimension_reduction.html#a139fe97eaaa6092a61314ae959f4722c" title="RunsSAMMAN. " alt="" coords="445,659,591,700"/>
+</map>

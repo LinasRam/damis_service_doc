@@ -1,0 +1,4 @@
+<map id="sendError" name="sendError">
+<area shape="rect" id="node2" href="$class_error_response.html#a9c03d049a8f8c9e2a0c9d1d6389878e1" title="Returns fault string. " alt="" coords="132,5,329,32"/>
+<area shape="rect" id="node3" href="$class_error_response.html#a4525362591646b6752c0eb3806734cd4" title="Returns fault details. " alt="" coords="133,56,329,83"/>
+</map>

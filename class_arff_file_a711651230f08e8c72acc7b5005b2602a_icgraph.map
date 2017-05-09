@@ -1,0 +1,9 @@
+<map id="ArffFile::isClassFound" name="ArffFile::isClassFound">
+<area shape="rect" id="node2" href="$class_arff_file.html#ae0b269b4e1ce5a078477b7bc9e633f7f" title="Function reads and validates arff file. If file is valid reurns true. " alt="" coords="222,13,357,39"/>
+<area shape="rect" id="node5" href="$class_preprocess.html#a1725e1e54ac02a1fc578c7ec0a7db17c" title="Function that performs data filtering. " alt="" coords="216,63,363,90"/>
+<area shape="rect" id="node7" href="$class_preprocess.html#a4539e616a2ee8f98b302e1fe589874c5" title="Function that performs data splitting. " alt="" coords="216,114,363,141"/>
+<area shape="rect" id="node8" href="$class_validate_params.html#a2479b998470662283069f4cc205f67fe" title="Validate data filtering parameters. " alt="" coords="203,165,376,191"/>
+<area shape="rect" id="node3" href="$class_init_damis_service.html#a9559d758997682a14b8d7303e170839c" title="Function returns file download URI. " alt="" coords="424,5,624,47"/>
+<area shape="rect" id="node4" href="$class_init_damis_service.html#a4c80d7fac813b800701eb82bbb6374a9" title="Constructor. " alt="" coords="672,5,852,47"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a5bc4197794cab7b59cd1b4af01879e59" title="main" alt="" coords="499,114,549,141"/>
+</map>
